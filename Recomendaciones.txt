@@ -1,0 +1,5 @@
+Utiliza Flexbox
+Para la alineacion o distribucion de los elementos que estan dentro de los contenedores
+
+Css Grid
+Para definir el Layout de tu sitio web, como pueden ver las columnas o contenedores de los elementos
